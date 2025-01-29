@@ -33,7 +33,7 @@ def stream_chat_responses(model, messages):
     
 
 def main():
-    st.title("Chat with LLMs")  # Set the title of the Streamlit app
+    st.title("Chat with LLMs Locally!")  # Set the title of the Streamlit app
     logging.info("App started")  # Log that the app has started
 
     # Sidebar for model selection
